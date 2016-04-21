@@ -1,0 +1,28 @@
+.tag-view {
+    height: 60px;
+}
+.tag-view > * {
+    background-color: #85c7fb;
+    height: 30px;
+    padding:0 4px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #fff;
+    float:left;
+    margin: 5px;
+    cursor: pointer;
+}
+.hobby-view > * {
+    background-color: #ffcc8b;
+    height: 30px;
+    padding:0 4px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #fff;
+    float:left;
+    margin: 5px;
+}
+
+.hobby-view {
+    width: 600px;
+}
